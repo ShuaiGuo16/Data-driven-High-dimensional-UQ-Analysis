@@ -1,6 +1,6 @@
 ## Data-drive High-dimensional Uncertainty Quantification for Combustion Instability Prediction
 
-<img src="./Images/Highlight.PNG" width=500/>
+<img align="center" src="./Images/Highlight.PNG" width=500/>
 
 ### 1. Highlight
 
@@ -28,17 +28,17 @@ To solve this problem, we first developed a pipeline to construct a regression m
 
 - We applied Monte Carlo approach to the trained regression model to quantify the likelihood of instability occurrence, i.e., instability risk.
 
-<img src="./Images/Workflow.PNG"  width=500/>
+<img align="center" src="./Images/Workflow.PNG"  width=500/>
 
 ### 4. Results
 
 - The Active Subspace approach managed to identify a 1D subspace, such that the output varies the most along this direction.
 
-<img src="./Images/Subspace.PNG" width=500 />
+<img align="center" src="./Images/Subspace.PNG" width=500 />
 
 - Thanks to the reduced problem dimensionality, the overall cost for calculating the instability risk reduced 50-fold, without compromising the accuracy.
 
-<img src="./Images/Results.PNG" width=500 />
+<img align="center" src="./Images/Results.PNG" width=500 />
 
 ### 5. Folder structure
 
