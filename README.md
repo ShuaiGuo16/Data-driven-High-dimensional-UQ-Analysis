@@ -1,6 +1,6 @@
 ## Data-drive High-dimensional Uncertainty Quantification for Combustion Instability Prediction
 
-<img src="./Images/Highlight.PNG" width=500 height=300 />
+<img src="https://github.com/ShuaiGuo16/Data-driven-High-dimensional-UQ-Analysis/blob/master/Images/Highlight.PNG" width=500 height=300 />
 
 ### 1. Highlight
 
