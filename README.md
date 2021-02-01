@@ -1,6 +1,6 @@
 ## Data-drive High-dimensional Uncertainty Quantification for Combustion Instability Prediction
 
-<img src="https://github.com/ShuaiGuo16/Data-driven-High-dimensional-UQ-Analysis/blob/master/Images/Highlight.PNG" width=500 height=300 />
+<img src="./Images/Highlight.PNG"/>
 
 ### 1. Highlight
 
@@ -34,11 +34,11 @@ To solve this problem, we first developed a pipeline to construct a regression m
 
 - The Active Subspace approach managed to identify a 1D subspace, such that the output varies the most along this direction.
 
-<img src="./Images/Subspace.png" width=500 height=300 />
+<img src="./Images/Subspace.PNG" />
 
 - Thanks to the reduced problem dimensionality, the overall cost for calculating the instability risk reduced 50-fold, without compromising the accuracy.
 
-<img src="./Images/Results.png" width=500 height=300 />
+<img src="./Images/Results.PNG"  />
 
 ### 5. Folder structure
 
