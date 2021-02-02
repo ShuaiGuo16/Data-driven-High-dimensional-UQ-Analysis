@@ -9,7 +9,7 @@
 - The Active Subspace approach is firstly used to reduce the problem dimensionality, followed by training a supervised learning model to map from the low-dimensional manifold to the target risk indices.
 - The proposed solution led to 50 times faster risk calculation while achieving state-of-the-art accuracy.
 
-This work was firstly presented in [ASME Turbo Expo 2018](https://archive.asme.org/events/turbo-expo2018) conference, and was later published in the journal:
+This work was initially presented in [ASME Turbo Expo 2018](https://archive.asme.org/events/turbo-expo2018) conference, and was later published in the journal:
 
 Guo S., Silva C. F., Ghani A., Polifke W., [Quantification and Propagation of Uncertainties in Identification of Flame Impulse Response for Thermoacoustic Stability Analysis](https://asmedigitalcollection.asme.org/gasturbinespower/article-abstract/141/2/021032/476450/Quantification-and-Propagation-of-Uncertainties-in?redirectedFrom=fulltext). *Journal of Engineering for Gas Turbines and Power*, 2019, 141(2), pp. 021032.
 
